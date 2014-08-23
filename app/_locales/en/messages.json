@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Notifies when you have the URL open more than once",
+    "message": "A simple chrome extension that lets you know and find when you have several tabs open to the same URL",
     "description": "The description of the application"
   }
 }
